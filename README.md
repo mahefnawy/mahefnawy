@@ -1,7 +1,14 @@
 <img src="https://res.cloudinary.com/dgfb9ldfx/image/upload/v1710084525/github/iqxz52pkadxeemzjw104.jpg">
 
 <h1 align="center">Hi 👋, I'm Mohamed Hassan</h1>
-<h3 align="center">Senior UI Engineer</h3>
+<h3 align="center">Senior UI/UX Engineer 🪄</h3>
+<h3 align="center">Frontend Tool Crafter 🛠</h3>
+<h3 align="center">Competitive Programming Black belt 🥋</h3>
+
+
+Senior UI Engineer 🪄
+
+
 
 - 📫 How to reach me **moemachef@gmail.com**
 
