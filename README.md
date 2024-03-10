@@ -5,11 +5,6 @@
 <h3 align="center">Frontend Tool Crafter 🛠</h3>
 <h3 align="center">Competitive Programming Black belt 🥋</h3>
 
-
-Senior UI Engineer 🪄
-
-
-
 - 📫 How to reach me **moemachef@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
